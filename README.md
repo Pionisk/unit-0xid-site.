@@ -10,10 +10,9 @@
       background: radial-gradient(circle at top left, #111, #000);
       color: #e5e5e5;
       font-family: monospace;
-      overflow-x: hidden;
     }
     .glitch {
-      font-size: 3rem;
+      font-size: 2.5rem;
       font-weight: bold;
       position: relative;
       animation: glitch 1s infinite;
